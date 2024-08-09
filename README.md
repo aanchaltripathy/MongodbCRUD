@@ -7,7 +7,7 @@
 ### Product database stores products with unique id, name and description 
 #### ProductDB database created 
  ![Screenshot (50)](https://github.com/user-attachments/assets/a5db2ec3-8442-4ed1-a4bc-d28ccbf6eabc)
-####POST Request for adding values
+#### POST Request for adding values
 
 ![Screenshot (49)](https://github.com/user-attachments/assets/bc330512-5890-43c8-9d08-5a61f00f8e4c)
 #### GET Request to view products
